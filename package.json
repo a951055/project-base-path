@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Halo",
   "license": "Apache-2.0",
+  "repository": {
+    "url": "https://github.com/a951055/project-base-path"
+  },
   "scripts": {
     "test": "cd .\\test\\a\\b\\c & node .\\example"
   }
