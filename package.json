@@ -1,0 +1,11 @@
+{
+  "name": "project-base-path",
+  "version": "1.0.1",
+  "description": "项目内任意子目录获取项目basePath和指定文件绝对路径",
+  "main": "index.js",
+  "author": "Halo",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "cd .\\test\\a\\b\\c & node .\\example"
+  }
+}
