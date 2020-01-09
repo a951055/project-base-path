@@ -8,6 +8,11 @@
   "repository": {
     "url": "https://github.com/a951055/project-base-path"
   },
+  "keywords": [
+    "basePath",
+    "获取项目绝对路径",
+    "项目内文件检索"
+  ],
   "scripts": {
     "test": "cd .\\test\\a\\b\\c & node .\\example"
   }
